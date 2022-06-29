@@ -7,3 +7,4 @@
     --write-git-creds \
     --repo-allowlist='github.com/atlantis-test/*' \
     --atlantis-url="https://$ATLANTIS_HOST"
+    ---workspace="sample"
